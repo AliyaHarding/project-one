@@ -1,1 +1,2 @@
 create kotline page
+create aliya_pagina
