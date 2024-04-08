@@ -1,6 +1,3 @@
-create kotline page
-
-create aliya_master_pagina
-
-create aliya_pagina
- location5
+create page webview
+create page dashboard
+create page login
